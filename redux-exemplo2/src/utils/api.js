@@ -1,0 +1,1 @@
+export const api = "https://jsonplaceholder.typicode.com"; // Define a URL base da API.
